@@ -1,5 +1,5 @@
 # SoftwarePractice-Project
-MY LITTLE SPACESHIP by KangNamGu and KimNamHyun(9조)
+MY LITTLE SPACESHIP
 
 **MYLittleSpaceship final**파일에 최종프로젝트 존재.
 
